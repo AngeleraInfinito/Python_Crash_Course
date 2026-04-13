@@ -1,4 +1,4 @@
-name = '  eric \t\nmatthes  '
+name = '  eric \n\tmatthes  '
 print(name)
 print(name.lstrip())
 print(name.rstrip())
